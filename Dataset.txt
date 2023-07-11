@@ -1,0 +1,3 @@
+1. UniProt-SP dataset: https://drive.google.com/drive/folders/102blZ_OgXGKahSGkplxXfrtWkTw4XX4o?usp=share_link
+2. CAFA3 dataset: https://deepgo.cbrc.kaust.edu.sa/data/data-cafa.tar.gz
+3. GOLabeler dataset: https://deepgo.cbrc.kaust.edu.sa/data/data-2016.tar.gz
