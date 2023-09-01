@@ -17,5 +17,7 @@ https://github.com/suyash-chintawar/OntoPred
 ## Publication details
 Suyash Chintawar, Rakshit Kulkarni and Nagamma Patil, "OntoPred: An efficient attention-based approach for Protein Function Prediction using skip-gram features" ,Springer SN Computer Science Journal. (accepted)
 
+Paper Link: https://link.springer.com/article/10.1007/s42979-023-02135-y
+
 
 
